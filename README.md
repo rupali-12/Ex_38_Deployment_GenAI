@@ -6,4 +6,4 @@
 
 # Deployed Link
 
-[DEPLOYED_LINK]()
+[DEPLOYED_LINK](https://ex38deploymentgenai-xmy5xfjhcjlfzgkho8wrug.streamlit.app/)
